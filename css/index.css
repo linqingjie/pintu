@@ -1,0 +1,69 @@
+.content{
+    width: 900px;
+    margin: 0 auto;
+    background-color:#ccc ;
+}
+.header{
+    width: 900px;
+    height: 50px;
+    background-color: #706C61;
+    color: whitesmoke;
+    margin-bottom: 20px;
+}
+.header .logo{
+    text-indent: 2em;
+    font-weight: 800;
+    line-height: 50px;
+}
+.header .login a{
+    color: whitesmoke;
+    margin-right: 10px;
+    line-height: 50px;
+}
+.header .main{
+    width: 900px;
+    overflow: hidden;
+}
+.main .left{
+    width: 500px;
+}
+.main .left ul{
+    width: 472px;
+    margin: 0 auto;
+}
+.main .left ul li{
+    width: 114px;
+    height: 114px;
+    border: 2px solid white;
+    float: left;
+    overflow: hidden;
+}
+.main .left ul li img{
+    width: 114px;
+    height: 114px;
+}
+.main .right{
+    width: 400px;
+}
+.main .right .banner{
+    width: 400px;
+    height: 50px;
+}
+.main .right .banner ul{}
+.main .right .banner ul li{
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 700;
+    border-bottom: 2px solid white;
+    float: left;
+}
+.highlight{
+    background-color: white;
+}
+.main .right .column{
+    width: 400px;
+    height: 422px;
+}
